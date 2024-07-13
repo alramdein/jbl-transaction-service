@@ -3,6 +3,8 @@
 *.py[cod]
 *$py.class
 
+# change
+
 # C extensions
 *.so
 
