@@ -3,7 +3,7 @@
 *.py[cod]
 *$py.class
 
-# change
+.DS_Store
 
 # C extensions
 *.so
